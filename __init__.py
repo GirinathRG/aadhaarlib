@@ -1,0 +1,1 @@
+from aadhaar_detection.detection import AadhaarDetector
