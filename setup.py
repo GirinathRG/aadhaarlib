@@ -13,7 +13,7 @@ setup(
     author_email='girinathr@simplfin.tech',
     description='Aadhaar card detection library',
     long_description='A library for detecting Aadhaar cards in images.',
-    url='https://github.com/yourusername/aadhaar-detection',
+    url='https://github.com/GirinathRG/aadhaarlib/tree/main',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
